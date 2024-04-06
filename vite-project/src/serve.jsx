@@ -10,5 +10,9 @@ const sayNo = function () {
     console.log("sayNo")
 }
 
+const sayThanks = function () {
+    console.log("sayThanks")
+}
+
 export { sayHello, sayYes };
 export default sayNo;
